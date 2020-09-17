@@ -28,3 +28,27 @@ Podemos usar la matriz para desplegar caracteres y mensajes, poseen entradas GPI
 Para utilizar micropython con nuestro badge visite el siguiente repositorio para mayor información  [FunPython Ecuador][FPE].
 
 [FPE]: https://github.com/FunPythonEC/FIT_Guatemala_2019-SMART_BADGE
+
+# Dispositivos 
+
+
+### Temperatura, humedad y presión atmosférica - I2C
+ESP32 | BME280
+--- | ---
+SCL 22 | SCK 4
+SDA 23 | SDI 3
+
+### Acelerometro/Giroscopio - I2C
+ESP32 | MMA8425QT
+--- | ---
+SCL 22 | SCL 4
+SDA 23 | SDA 6
+
+### Matriz led 8x8 - SPI
+ESP32 | MAX7219CWG+
+--- | ---
+5V | VCC 
+GND | GND
+MOSI 16 | DIN 1
+CS 17 | CS 12
+SCK 21 | CLK 13
