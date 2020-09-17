@@ -12,6 +12,10 @@ Este dispositivo contiene lo siguiente:
 - Matriz Led 8x8
 - LiPo Charger
 
+# ¿Quién obtuvo un BADGE?
+
+Los primeros 100 participantes inscritos en el FIT obtuvieron su BADGE conmemorativo a los 10 años del evento.
+
 # ¿Cómo funciona?
 
 El Badge funciona por medio de un microcontrolador ESP32 el cual posee conectividad WiFi y BLE, podemos desplegar caracteres por medio de una matriz de Led de 8x8 por medio de conexión SPI, obtiene mediciones de temperatura, humedad y presión atmosférica por medio del sensor BME280, algunas de las aplicaciones puede incluir el uso del Giróscopio.
