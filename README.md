@@ -29,8 +29,7 @@ Para utilizar micropython con nuestro badge visite el siguiente repositorio para
 
 [FPE]: https://github.com/FunPythonEC/FIT_Guatemala_2019-SMART_BADGE
 
-# Dispositivos 
-
+# Descripción de pines 
 
 ### Temperatura, humedad y presión atmosférica - Comunicación I2C
 ESP32 | BME280
