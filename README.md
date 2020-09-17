@@ -32,20 +32,20 @@ Para utilizar micropython con nuestro badge visite el siguiente repositorio para
 # Dispositivos 
 
 
-### Temperatura, humedad y presión atmosférica - I2C
+### Temperatura, humedad y presión atmosférica - Comunicación I2C
 ESP32 | BME280
 --- | ---
 SCL 22 | SCK 4
 SDA 23 | SDI 3
 
-### Acelerometro/Giroscopio - I2C
+### Acelerómetro/Giróscopio - Comunicación I2C
 ESP32 | MMA8425QT
 --- | ---
 SCL 22 | SCL 4
 SDA 23 | SDA 6
 
-### Matriz led 8x8 - SPI
-ESP32 | MAX7219CWG+
+### Matriz led 8x8 - Comunicación SPI
+ESP32 | MAX7219CWG
 --- | ---
 5V | VCC 
 GND | GND
