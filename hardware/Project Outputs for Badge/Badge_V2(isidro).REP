@@ -1,0 +1,92 @@
+*************************************************************
+FileName = Badge_V2(isidro).PcbDoc
+ODB++ directory structure
+*************************************************************
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\matrix\matrix
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\profile
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\stephdr
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_solder\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_solder\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_1\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_1\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_6\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_6\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_overlay\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_overlay\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\keep-out_layer\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\keep-out_layer\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_13\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_13\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_layer\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\bottom_layer\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_solder\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_solder\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_15\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\mechanical_15\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_paste\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_paste\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\drill\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\drill\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\drill\tools
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_overlay\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_overlay\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_layer\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\top_layer\attrlist
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\comp_+_bot\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\comp_+_bot\components
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\comp_+_top\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\layers\comp_+_top\components
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\steps\pcb\eda\data
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect59.0551x133.8583_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect39.3701x137.7953_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect62.9921x137.7953_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect43.3071x141.7323_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect59.0551x133.8583_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect39.3701x137.7953_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect59.0551x133.8583_310\features
+
+Generated File : C:\Users\Ingenieria\Dropbox\Proyectos\Badge\Badge\Project Outputs for Badge\odb\symbols\rect39.3701x137.7953_310\features
+
