@@ -1,0 +1,44 @@
+Change Component Description : Designator=C13 Old Description=0.1µF ±5% 50V Ceramic Capacitor X7R 0805 (2012 Metric) New Description=0.1µF ±5% 50V Ceramic Capacitor X7R 0805 (2012 Metric) 
+Change Component Description : Designator=R6 Old Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film 
+Change Component Description : Designator=R7 Old Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film 
+Change Component Description : Designator=R14 Old Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film New Description=4.7 kOhms ±5% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Moisture Resistant Thick Film 
+Change Component Description : Designator=C14 Old Description=4.7µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=4.7µF ±10% 25V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C3 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C8 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=C11 Old Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) New Description=10µF ±10% 16V Ceramic Capacitor X5R 0805 (2012 Metric) 
+Change Component Description : Designator=R1 Old Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film New Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film 
+Change Component Description : Designator=R5 Old Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film New Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film 
+Change Component Description : Designator=R11 Old Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film New Description=100 kOhms ±0.1% 0.125W, 1/8W Chip Resistor 0805 (2012 Metric) Automotive AEC-Q200 Thin Film 
+Change component parameters: Designator = "U6"; Footprint = "FRES-SOT1676-1_V"; UniqueID = "\FVYHQIZU\ANHMOFFE"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet URL"; Value = "http://cache.nxp.com/files/sensors/doc/data_sheet/MMA8452Q.pdf?fpsp=1&WT_TYPE=Data%20Sheets&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Version"; Value = "Rev. 10, 04/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Dimensions"; Value = "3x3x1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Frequency Response Range"; Value = "0?400kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Interface Type"; Value = "Serial-I2C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "3mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Freescale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer URL"; Value = "http://www.nxp.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Frequency Response"; Value = "400kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Supply Voltage"; Value = "3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Maximum Operating Temperature"; Value = "+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Frequency Response"; Value = "0kHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Supply Voltage"; Value = "1.95V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Minimum Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mounting Type"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Noise"; Value = "99µg/vHz"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Axis"; Value = "3"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Supply Voltage Range"; Value = "1.95?3.6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Operating Temperature Range"; Value = "-40?+85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Description"; Value = "16-Pin Quad Flat No-lead Package, Body 3 x 3 mm, Pitch 0.5 mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Reference"; Value = "SOT1676-1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Type"; Value = "QFN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package URL"; Value = "http://cache.freescale.com/files/shared/doc/package_info/98ASA00063D.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Version"; Value = "Rev. B, 01/2016"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pin Count"; Value = "16"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensitivity"; Value = "256counts/g,512counts/g,1024counts/g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Sensor Range"; Value = "±2g,±4g,±8g"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Technology"; Value = "Digital"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "3mm"; VariantName = "[No Variations]"
