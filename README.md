@@ -15,3 +15,9 @@ Este dispositivo contiene lo siguiente:
 # ¿Cómo funciona?
 
 El Badge funciona por medio de un microcontrolador ESP32 el cual posee conectividad WiFi y BLE, podemos desplegar caracteres por medio de una matriz de Led de 8x8, obtiene mediciones de temperatura, humedad y presión atmosférica por medio del sensor BME280, algunas de las aplicaciones puede incluir el uso del Giróscopio.
+
+# ¿Qué podemos hacer?
+
+Enviar datos a un servidor web por medio de WiFi para lo cual necesitaremos conectividad WiFi y crear nuestro servidor Web, publicar datos ambientales en dashboards por medio de MQTT en plataformas como [adafruiIO][adafruit_io]
+
+[adafruit_io]: https://io.adafruit.com
