@@ -58,7 +58,7 @@ SCK 21 | CLK 13
 
 # Licencia
 
-Hardware License: CERN OHL V1.0 para más información visitar el siguiente [Link][CERN_v1].
+Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link][CERN_v1].
 
 [CERN_v1]: https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-1.2
 
