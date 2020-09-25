@@ -2,6 +2,7 @@
 
 ![](/img/badge.PNG)
 ![](/img/badge2.jpeg)
+![](/img/GT000001.svg)
 
 Badge FIT 10 años es una tarjeta electrónica diseñada por Ángel Isidro diseñador de dispostivos IoT en el laboratorio de investigación y desarrollo Tesla Lab de Universidad Galileo.
 
